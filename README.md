@@ -12,6 +12,7 @@ const me = {
   job: 'Searching...',
   skils: [
     "javascript",
+    "typescript (In progress....)",
     "css",
     "html",
     "reactjs (In progress...)"
