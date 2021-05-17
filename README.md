@@ -2,7 +2,7 @@
 
 <div style="display:flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasAlt40&show_icons=true&t&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlt40&layout=compact" />
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlt40&layout=compact" />
 </div>
 
 ```javascript
