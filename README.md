@@ -2,7 +2,8 @@
 
 <div style="display:flex; flex-direction: row;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasAlt40&show_icons=true&t&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlt40&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlt40&layout=compact)](https://github.com/LucasAlt40/github-readme-stats"/>
+"/>
 </div>
 
 ```javascript
