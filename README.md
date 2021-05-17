@@ -1,9 +1,8 @@
 ### Hi there 👋  I'm Lucas!
 
 <div style="display:flex; flex-direction: row;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasAlt40&show_icons=true&t&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlt40&layout=compact)](https://github.com/LucasAlt40/github-readme-stats"/>
-"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasAlt40&show_icons=true&t&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlt40&layout=compact" />
 </div>
 
 ```javascript
