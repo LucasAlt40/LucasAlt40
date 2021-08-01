@@ -1,8 +1,9 @@
 ### Hi there 👋  I'm Lucas!
 
-<div style="display:flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasAlt40&show_icons=true&t&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlt40&layout=compact" />
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlt40&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlt40&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ```javascript
