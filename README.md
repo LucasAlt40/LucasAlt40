@@ -9,7 +9,7 @@
 const me = {
   name: "Lucas",
   age: 17,
-  job: 'Searching...',
+  job: 'Front-End Intern at Cognyte',
   skils: [
     "javascript",
     "typescript (In progress....)",
