@@ -8,7 +8,7 @@
 ```javascript
 const me = {
   name: "Lucas",
-  age: 17,
+  age: 18,
   job: 'Front-End Intern at Cognyte',
   skils: [
     "javascript",
