@@ -17,7 +17,9 @@ const me = {
     "html",
     "reactjs (In progress...)",
     "php",
-    "MySql"
+    "MySql",
+    "Java",
+    "Spring boot (In progress...)"
   ]
 }
 ```
