@@ -1,5 +1,8 @@
 ### Hi there 👋  I'm Lucas!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAlt40&theme=tokyonight&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAlt40&hide=contribs,prs)
+
 ```javascript
 const me = {
   name: "Lucas",
