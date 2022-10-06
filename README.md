@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm Lucas!
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAlt40)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   <img height="170em" src="(https://github-readme-stats.vercel.app/api?username=LucasAlt40&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlt40&layout=compact&langs_count=7&theme=algolia"/>
