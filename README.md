@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Lucas!
   
   
-Hey there! I'm Lucas, a cheerful and ambitious guy ready to conquer the tech world! 🌟 Currently, I'm a student of Internet Systems at the Instituto Federal de Ciência e Tecnologia de São Paulo. During my journey, I'm also gaining valuable experience as a software engineering intern. 💻 My ultimate goal? To become a top-notch developer and make a significant impact in the industry someday! 💪 So, buckle up, because I'm determined to code my way to success! 🚀
+Hey there! I'm Lucas, a cheerful and ambitious guy ready to conquer the tech world! 🌟 Currently, I'm a student of Internet Systems at the Instituto Federal de Ciência e Tecnologia de São Paulo. Along my academic journey, I've gained valuable experience as a Software Developer Junior, honing my skills in web development and application design. 💻 My ultimate goal? To become a top-notch developer and make a significant impact in the industry someday! 💪 So, buckle up, because I'm determined to code my way to success! 🚀
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,6 +14,7 @@ Hey there! I'm Lucas, a cheerful and ambitious guy ready to conquer the tech wor
   <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lucas-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 </div>
 
 ##
