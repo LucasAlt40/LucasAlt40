@@ -1,7 +1,18 @@
-### Hi there 👋  I'm Lucas!
-  
-  
-Hey there! I'm Lucas, a cheerful and ambitious guy ready to conquer the tech world! 🌟 Currently, I'm a student of Internet Systems at the Instituto Federal de Ciência e Tecnologia de São Paulo. Along my academic journey, I've gained valuable experience as a Software Developer Junior, honing my skills in web development and application design. 💻 My ultimate goal? To become a top-notch developer and make a significant impact in the industry someday! 💪 So, buckle up, because I'm determined to code my way to success! 🚀
+### Hi there 👋 I'm Lucas!
+
+Hey there! I'm Lucas, a passionate full stack developer dedicated to creating innovative solutions and tackling complex challenges. Currently, I'm studying Internet Systems at the Instituto Federal de Ciência e Tecnologia de São Paulo (IFSP) and I have a technical degree in Informatics.
+
+Throughout my career, I've developed strong skills in various technologies:
+
+- **Languages and Frameworks:** ReactJS, Angular, C#, ASP.NET, HTML, CSS, JavaScript, Java, Spring Boot
+- **Databases:** PostgreSQL, Oracle, SQL Server
+- **Development Practices:** MVC, DDD, RestAPI, BDD, TDD
+- **Tools and Practices:** Docker, GitLab, GitHub, Apache Maven, NPM
+- **CI/CD:** GitLab CI/CD, GitHub Actions
+
+Currently, I work as a full stack developer, using Angular and React on the frontend, and C# with ASP.NET on the backend, ensuring seamless integration between the two. I am also responsible for version control using Git and GitHub, and I prototype interfaces in Figma. I manage SQL Server databases and actively participate in training and onboarding new team members.
+
+My current goal is to become a leading software architect, where I can design robust and scalable systems that drive innovation and success. I am always looking to improve my skills and take on new challenges. Let's build the future of technology together! 🚀
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
